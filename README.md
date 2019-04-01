@@ -1,7 +1,7 @@
 <div align="center">
   <h3 align="center">Meta UX Flow (Sketch Library)</h3>
   <p align="center">
-    <a href="https://github.com/universelabs/meta-ux-flow/issues/new" alt="Request feature (Meta UI)">
+    <a href="https://github.com/universelabs/meta-ux-flow/issues/new" alt="Request feature (Meta UX Flow)">
       Request feature
     </a>
     &middot;
@@ -62,17 +62,17 @@ Within the Sketch file you'll find the following. You'll see something like this
 
 
 ## Getting started
-**Meta UX Flow** is an open source [Sketch Shared Library](https://www.sketch.com/docs/libraries/shared-libraries) for wireframing &amp; user flows. Once installed, the **Meta UI** library syncs directly to Sketch Cloud. Users simply subscribe to **Meta UI** and Sketch will notify them of updates. No need to worry about version updates, etc.
+**Meta UX Flow** is an open source [Sketch Shared Library](https://www.sketch.com/docs/libraries/shared-libraries) for wireframing &amp; user flows. Once installed, the **Meta UX Flow** library syncs directly to Sketch Cloud. Users simply subscribe to **Meta UX Flow** and Sketch will notify them of updates. No need to worry about version updates, etc.
 
-#### To subscribe to Meta UI Sketch Shared Library
+#### To subscribe to Meta UX Flow Sketch Shared Library
 1. Sketch Shared Libraries require you to have **[Sketch installed](https://www.sketchapp.com/get/)** on your Mac.
-2. Once Sketch is installed, click **[Meta UX Flow Sketch Shared Library](https://sketch.cloud/s/xyxO8)** which will take you to Meta UI in Sketch Cloud.
+2. Once Sketch is installed, click **[Meta UX Flow Sketch Shared Library](https://sketch.cloud/s/xyxO8)** which will take you to Meta UX Flow in Sketch Cloud.
 3. Next, click the ”Add Library to Sketch” button in the bottom right corner.
 4. A modal window will pop up.
 5. Click ”Add Library to Sketch.”
-6. Meta UI is now syncing to your Sketch app.
+6. Meta UX Flow is now syncing to your Sketch app.
 
-#### To view Meta UI Style Guide and Symbols
-1. Open Sketch App > **Preferences** > **Libraries** > **Meta UI**
+#### To view Meta UX Flow Style Guide and Symbols
+1. Open Sketch App > **Preferences** > **Libraries** > **Meta UX Flow**
 2. Click the "**eye**" icon. This will open a preview. 
 3. Then click "**Open with Sketch**" in the top right corner of the preview window.
