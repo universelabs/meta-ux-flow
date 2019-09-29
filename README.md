@@ -13,7 +13,7 @@
       Medium
     </a>
     &middot;
-    <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNjA2MjM1NjAyNzI0LTUyYWZjM2I5M2VhMTU3YTY3ZGI0YTAwNDQwN2I1Mzc4Yjk3YTg2Y2IxOGMyMDljOTdkM2Y4NTM3ZTAwYzc3NTg">
+    <a href="https://universelabs-slackin.herokuapp.com/">
       Slack
     </a>
   </p>
