@@ -13,7 +13,7 @@
       Medium
     </a>
     &middot;
-    <a href="https://universelabs-slackin.herokuapp.com/">
+    <a href="https://slack.universe.engineering">
       Slack
     </a>
   </p>
@@ -44,8 +44,8 @@
 Within the Sketch file you'll find the following. You'll see something like this:
 
 🏝️Sandbox <br/>
-⚙️ Symbols - User Flows <br/>
-👁️ Library Preview <br/>
+⚙️Symbols - User Flows <br/>
+👁️Library Preview <br/>
 
 
 ## Getting started
